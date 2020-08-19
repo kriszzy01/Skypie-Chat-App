@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Skypie-Chat-App/static/css/main.20702f1a.chunk.css",
+    "main.js": "/Skypie-Chat-App/static/js/main.38cee121.chunk.js",
+    "main.js.map": "/Skypie-Chat-App/static/js/main.38cee121.chunk.js.map",
+    "runtime-main.js": "/Skypie-Chat-App/static/js/runtime-main.fc3c7cac.js",
+    "runtime-main.js.map": "/Skypie-Chat-App/static/js/runtime-main.fc3c7cac.js.map",
+    "static/js/2.18d5ca5c.chunk.js": "/Skypie-Chat-App/static/js/2.18d5ca5c.chunk.js",
+    "static/js/2.18d5ca5c.chunk.js.map": "/Skypie-Chat-App/static/js/2.18d5ca5c.chunk.js.map",
+    "index.html": "/Skypie-Chat-App/index.html",
+    "precache-manifest.0f51527a2db1e14f7c7932ff3958a6c0.js": "/Skypie-Chat-App/precache-manifest.0f51527a2db1e14f7c7932ff3958a6c0.js",
+    "service-worker.js": "/Skypie-Chat-App/service-worker.js",
+    "static/css/main.20702f1a.chunk.css.map": "/Skypie-Chat-App/static/css/main.20702f1a.chunk.css.map",
+    "static/js/2.18d5ca5c.chunk.js.LICENSE.txt": "/Skypie-Chat-App/static/js/2.18d5ca5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc3c7cac.js",
+    "static/js/2.18d5ca5c.chunk.js",
+    "static/css/main.20702f1a.chunk.css",
+    "static/js/main.38cee121.chunk.js"
+  ]
+}
